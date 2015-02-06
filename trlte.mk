@@ -202,10 +202,6 @@ PRODUCT_PACKAGES += \
     init.sec.boot.sh \
     ueventd.qcom.rc
 
-# Torch
-PRODUCT_PACKAGES += \
-    Torch
-
 PRODUCT_PACKAGES += \
     libnetcmdiface \
     macloader \
