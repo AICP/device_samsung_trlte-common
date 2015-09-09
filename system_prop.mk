@@ -47,3 +47,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # USB OTG interface
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.isUsbOtgEnabled=true
+
+#AICP Device Maintainers
+ro.aicp.maintainer=zipsnet, semdoc (doc HD)
